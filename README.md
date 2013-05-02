@@ -17,8 +17,8 @@ Files are organized as follows:
   * foreword.xml   (model for book with a foreword)
   * part1.xml      (model for book organized in Parts)
 * Extras (generally for internal use, during later production stages):
-  * colo.xml
-  * colo_theory.xml
+  * colo.xml (colophon)
+  * book-docinfo.xml (contains ISBN and author information)
 
 ## Further info
 
