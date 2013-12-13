@@ -6,6 +6,7 @@ This repository contains samples of DocBook source files, for use with our inter
 NOTE: If you update any boilerplate in this repo, please update the AsciiDoc version as well:
 
 https://github.com/oreillymedia/asciidoc_samples
+
 ----
 
 When there's a .pdf as well as .xml version, it's generally a good idea to take a look at the PDF before delving into the source; the PDFs not only show the rendering, but in many cases also have some additional commentary (in red).
