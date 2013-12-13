@@ -17,14 +17,14 @@ Files are organized as follows:
 
 * Standard (provided as "starter files" for authors):
   * book.xml       (model for book with XIncludes)
-  * preface/animal/ch00.xml       (model for Animal preface; for other series, use preface/all_other_series/ch00.xml)
+  * preface/animal/ch00.xml       (model for Animal preface; for other series, use preface/all\_other\_series/ch00.xml)
   * ch01.xml       (model for chapters)
 * Optional (copy any of these you need for your book):
   * dedication.xml (model for book with a dedication)
   * foreword.xml   (model for book with a foreword)
   * part1.xml      (model for book organized in Parts)
 * Extras (generally for internal use, during later production stages):
-  * colophon/<series>/colo.xml (colophon)
+  * colophon/\<series\>/colo.xml (colophon)
   * book-docinfo.xml (contains ISBN and author information)
 
 ## Further info
