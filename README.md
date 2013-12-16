@@ -9,7 +9,7 @@ https://github.com/oreillymedia/asciidoc_samples
 
 and then "git pull" in the checkouts here:
 
-/work/tools/samples/docbook_samples
+/work/tools/samples/docbook_samples  
 /work/tools/samples/asciidoc_samples
 
 ----
