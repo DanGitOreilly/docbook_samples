@@ -11,6 +11,7 @@ and then "git pull" in the checkouts here:
 
 /work/tools/samples/docbook_samples
 /work/tools/samples/asciidoc_samples
+
 ----
 
 When there's a .pdf as well as .xml version, it's generally a good idea to take a look at the PDF before delving into the source; the PDFs not only show the rendering, but in many cases also have some additional commentary (in red).
