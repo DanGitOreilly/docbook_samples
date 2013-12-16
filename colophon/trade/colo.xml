@@ -2,5 +2,5 @@
 <!DOCTYPE colophon PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
 <colophon id="colophon">
   <title>Colophon</title>  
-  <para>The cover and body fonts are Scala Pro, the heading font is Benton Sans, and the code font is LucasFont's TheSansMonoCondensed.</para>
+  <para>The cover and body fonts are Scala Pro, the heading font is Benton Sans, and the code font is TheSansMono Condensed.</para>
 </colophon>
